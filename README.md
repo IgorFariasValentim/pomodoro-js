@@ -1,6 +1,6 @@
 # ⏳ Pomodoro Timer
 
-![Pomodoro Timer](https://igorfariasvalentim.github.io/pomodoro-js/screenshot.png)
+![Pomodoro Timer](screenshot.png)
 
 Um timer Pomodoro simples e funcional criado com **HTML**, **CSS** e **JavaScript puro**, publicado com **GitHub Pages**.
 
@@ -40,7 +40,7 @@ double click no arquivo index.html (ou abrir com VSCode)
 ---
 
 ## 📸 Captura de Tela
-> Você pode adicionar uma imagem chamada `screenshot.png` dentro do repositório para ela aparecer aqui.
+> A imagem acima mostra o visual da aplicação pronta para uso.
 
 ---
 
@@ -48,6 +48,7 @@ double click no arquivo index.html (ou abrir com VSCode)
 ```
 ├── index.html       # Estrutura da página
 ├── script.js        # Lógica do cronômetro
+├── screenshot.png   # Imagem de preview do projeto
 └── style.css        # Estilos visuais (embutido no HTML)
 ```
 
